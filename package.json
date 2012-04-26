@@ -1,0 +1,15 @@
+{
+    "name": "sourcemint-pm-sm",
+    "version": "0.1.0",
+    "pm": "npm",
+    "dependencies": {
+        "sourcemint-util-js": "0.1.x",
+        "sourcemint-pinf-js": "0.1.x",
+        "sourcemint-pm-git": "0.1.x",
+        "sourcemint-pm-url": "0.1.x",
+        "sourcemint-pm-npm": "0.1.x",
+        "sourcemint-pm-zip": "0.1.x",
+        "sourcemint-pm-tar": "0.1.x",
+        "semver": "1.x"
+    }
+}

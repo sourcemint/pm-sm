@@ -1,0 +1,11 @@
+{
+    "name": "sdk-npm-examples-pip-helloworld",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "mappings": "0.x"
+    },
+    "mappings": {
+        "my-pip-pkg": ["pip", "./packages/helloworld/dist/helloworld-0.0.0.tar.gz"]
+    }
+}
