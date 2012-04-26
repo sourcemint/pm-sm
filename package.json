@@ -1,6 +1,31 @@
 {
     "name": "sourcemint-pm-sm",
     "version": "0.1.2",
+    "license": "MIT",
+    "author": "Christoph Dorn <christoph@christophdorn.com> (http://christophdorn.com)",
+    "maintainers": [
+        {
+            "name": "Christoph Dorn",
+            "email": "christoph@christophdorn.com",
+            "web": "http://christophdorn.com"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Christoph Dorn",
+            "email": "christoph@christophdorn.com",
+            "web": "http://christophdorn.com"
+        }
+    ],
+    "bugs": {
+        "email": "sourcemint@googlegroups.com",
+        "url": "https://github.com/sourcemint/pm-sm/issues"
+    },
+    "homepage": "https://github.com/sourcemint/pm-sm",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sourcemint/pm-sm.git"
+    },
     "pm": "npm",
     "dependencies": {
         "sourcemint-util-js": "0.1.x",
