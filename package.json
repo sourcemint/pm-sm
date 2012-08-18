@@ -37,6 +37,7 @@
         "sourcemint-pm-zip": "0.1.x",
         "sourcemint-pm-tar": "0.1.x",
         "sourcemint-deployer": "0.1.x",
+        "mappings": "0.1.x",
         "semver": "1.x",
         "prompt": "0.2.3"
     }
