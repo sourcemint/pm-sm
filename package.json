@@ -39,7 +39,6 @@
         "sourcemint-deployer": "0.1.x",
         "sourcemint-credentials-js": "0.1.x",
         "mappings": "0.1.x",
-        "semver": "1.x",
-        "prompt": "0.2.3"
+        "semver": "1.x"
     }
 }
