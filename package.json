@@ -39,6 +39,7 @@
         "sourcemint-deployer": "0.1.x",
         "sourcemint-credentials-js": "0.1.x",
         "mappings": "0.1.x",
-        "semver": "1.x"
+        "semver": "1.x",
+        "graceful-fs": "1.1.x"
     }
 }
